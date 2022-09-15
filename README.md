@@ -7,8 +7,8 @@ toy级别
 GCC nasm汇编器
 
 编译安装运行：
-make
-./wewe 
+1. make
+2. ./wewe 
 
 ![绘图1](https://user-images.githubusercontent.com/22612129/190296393-9ffe9e4e-d1b3-4cc4-a90c-c9299430370c.png)
 
