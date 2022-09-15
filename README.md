@@ -10,3 +10,6 @@ GCC nasm汇编器
 make
 ./wewe 
 
+![绘图1](https://user-images.githubusercontent.com/22612129/190296122-fe036279-a757-4a0b-b597-25da3e95534e.png)
+
+
